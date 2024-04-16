@@ -17,3 +17,4 @@ Based off [Gophercises exercise](https://github.com/gophercises/quiz)
 
 ## References
 - [Golang Tutorial Series](https://golangbot.com/learn-golang-series/)
+- [A Tour of Go](https://go.dev/tour/welcome/1)
